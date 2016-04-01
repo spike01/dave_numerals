@@ -1,8 +1,8 @@
 module DaveNumerals
 
   DAVES = {
-    10 => "don't sing!",
-    9 => "no don't sing!",
+    10 => "don't sing! ",
+    9 => "no don't sing! ",
     5 => "dave ",
     4 => "no dave",
     1 => "no "
